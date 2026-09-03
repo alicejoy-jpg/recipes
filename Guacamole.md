@@ -6,5 +6,5 @@ Ingredients
 Instructions
 * Mash avocado
 * Add all ingredients
-* Mix
+* Mix together
 
