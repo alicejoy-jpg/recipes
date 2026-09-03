@@ -7,5 +7,5 @@ Instructions
 * Mash avocado
 * Add all ingredients
 * Mix together
-* Enjoy!
+* Enjoy with chips!
 
