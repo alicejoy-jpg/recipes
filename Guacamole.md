@@ -4,5 +4,7 @@ Ingredients
 * Salt
 
 Instructions
-
+* Mash avocado
+* Add all ingredients
+* Mix
 
