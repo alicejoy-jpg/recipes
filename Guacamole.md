@@ -4,7 +4,7 @@ Ingredients
 * Salt
 * Tequila
 * Pinch of Salt
-* X
+* Corriander
 
 Instructions
 * Mash avocado
