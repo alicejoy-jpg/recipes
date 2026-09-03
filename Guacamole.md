@@ -2,7 +2,9 @@ Ingredients
 * Two Avocados
 * Squirt of Lime
 * Salt
-* Tequila!
+* Tequila
+* Pinch of Salt
+* X
 
 Instructions
 * Mash avocado
