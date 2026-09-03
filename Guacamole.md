@@ -1,7 +1,7 @@
 Ingredients
 * Two Avocados
 * Squirt of Lime
-* Salt
+* Pinch of Salt
 
 Instructions
 * Mash avocado
